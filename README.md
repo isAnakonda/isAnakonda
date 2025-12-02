@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Belarus
 * 🖥️  See my portfolio at
-* ✉️  You can contact me at [@isAnakonda](mailto:@isAnakonda)
+* ✉️  You can contact me at
 * 🤝  I'm open to collaborating on Any, invite me
 
 <a href="https://www.github.com/isAnakonda" target="_blank" rel="noreferrer"><img
